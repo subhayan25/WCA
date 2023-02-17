@@ -7,3 +7,4 @@ emoji
 plotly
 textblob
 pyyaml
+processor
